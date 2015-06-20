@@ -3,7 +3,7 @@ require File.expand_path('../lib/omniauth/cas/version', __FILE__)
 
 Gem::Specification.new do |gem|
   gem.authors       = ["Derek Lindahl","Erik Ordway"]
-  gem.email         = ["dlindahl@customink.com","eriko@jumpsuit.org"]
+  gem.email         = ["dlindahl@customink.com","eriko@jumpsuit.org", "sunikbear@gmail.com"]
   gem.summary       = %q{CAS Strategy for OmniAuth}
   gem.description   = gem.summary
   gem.homepage      = "https://github.com/eriko/omniauth-cas"
